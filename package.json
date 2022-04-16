@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/silvanet/node-express-course#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "jslint": "^0.12.1"
   }
 }
